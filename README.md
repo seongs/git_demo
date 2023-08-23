@@ -1,3 +1,2 @@
 # git_demo
-# git1  
-# git2
+git1/git2
